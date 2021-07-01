@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestAppInterview</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="filter">filter</string>
+</resources>
